@@ -1,0 +1,18 @@
+nav {
+    background-color: #DEC72D;
+    display: inline;
+}
+navt {
+    display: inline-block;
+    text-shadow: 0px 0px #DEC72D;
+    max-width: 0%;
+    background-color: #DEC72D;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    width: 100%;
+    /* [disabled]height: 0px; */
+    margin-top: 0px;
+    padding-top: 10px;
+    text-decoration: none;
+}
